@@ -1,4 +1,7 @@
 # Search-Engine-Analytics-Vidhya
+
+URL: https://huggingface.co/spaces/Nsain25/AVSearchEngine
+
 The goal was to build a Smart Search System for Analytics Vidhya’s free courses, enabling users to efficiently search and discover relevant courses using natural language queries.
 
 🛠️ Tools and Technologies Used:
